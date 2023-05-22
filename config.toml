@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://testo-ntk.pages.dev'
 languageCode = 'en-us'
 title = 'Akiru'
 theme = 'PaperMod'
