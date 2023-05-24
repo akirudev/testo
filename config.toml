@@ -1,6 +1,6 @@
 baseURL = 'https://testo-ntk.pages.dev'
 languageCode = 'en-us'
-title = 'Akiru'
+title = '🧃morgra'
 theme = 'PaperMod'
 
 paginate = 5
@@ -101,7 +101,7 @@ url = "#"
 languagedirection = "rtl"
 languageName = "عربي"
 weight = 3
-title = "Akiru RTL"
+title = "morgra🧃"
 
   [languages.ar.homeInfoParams]
   Title = "مرحبا 👋"
